@@ -221,7 +221,8 @@
     padding-left: 130px;
 }
 .footer-1 {
-    max-width: 1366px;
+    max-width: 1120px;
+    /* max-width: 1366px; */
     width: 100%;
     height: 395px;
     display: flex;
@@ -265,5 +266,48 @@
 .fa-google-plus {
     color: #DC4E41;
 }
+
+/* usful-links */
+.usful-links {
+    max-width: 103px;
+    width: 100%;
+    height: 155px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.title2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 20px;
+}
+.navigation2 {
+    max-width: 103px;
+    width: 100%;
+    height: 114px;
+}
+.ul2 {
+    display: flex;
+    flex-direction: column;
+}
+.last-div {
+    max-width: 260px;
+    width: 100%
+}
+.contact-info {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.mail1 {
+    margin-bottom: 20px;
+   
+}
+.phone {
+    margin-bottom: 20px;
+}
+
 
 
