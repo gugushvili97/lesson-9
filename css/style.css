@@ -188,5 +188,32 @@
     flex-direction: column;
     text-align: center;
 }
+/* section2 */
+.images {
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+}
+.photos {
+    font-size: 14px;
+    color: #5863F8;
+    font-weight: bold;
+}
+.header2 {
+    max-width: 400px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.see-us {
+    font-size: 42px;
+    font-weight: bold;
+}
+.images1 {
+    max-width: 1367px;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+}
 
 
