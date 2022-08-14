@@ -138,5 +138,55 @@
     height: 60px;
     background-color: #5863F8;
 }
+/* connection */
+.connection {
+    max-width: 1165px;
+    width: 100%;
+    height: 162px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.left-block {
+    max-width: 270px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.blue {
+    max-width: 90px;
+    height: 58px;
+    background-color: #5863F8;
+    border-radius: 80px;
+    display: flex;
+    justify-content: center;
+    margin-left: 87px;
+    margin-bottom: 15px;
+   
+}
+.email {
+    font-size: 15px;
+    font-weight: bold;
+}
+.email-2 {
+    font-size: 14px;
+    margin-top: 6px;
+    color: #B1B1B1;
+}
+.middle-block {
+    max-width: 270px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.right-block {
+    max-width: 270px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
 
 
